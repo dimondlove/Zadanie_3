@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+	padding: 0;
+	margin: 10px;
+}
+
+main {
+	width: 1000px;
+	text-align: center;
+}
+
+.title h2 {
+	margin: 0;
+}
+
+h3, p {
+	text-align: left;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+	height: 40px;
+	text-align: center;
+	margin: 30px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.formula {
+	text-align: center;
+	font-size: 20px;
+	height: 30px;
+	display: inline-block;
+	margin: 5px;
+	padding: 5px;
+	background-color: #ffaeac;
+}
+
+.highlighting {
+	font-weight: 900;
+	font-style: italic;
+	color: #65090a;
+}
